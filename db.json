@@ -1,0 +1,2036 @@
+{
+    "General_Surgery": [
+        {
+            "M584167": {
+                "Patient Name": "Andrea Lindgren",
+                "MRN": "M584167",
+                "OR": "1C",
+                "Procedure Date": "2022-07-25",
+                "Procedure Time": "7:00 AM EST",
+                "Primary Procedure": "RPR RECRT INCAL/VNT HERNIA REDUCIBLE",
+                "Primary Procedure CPT Code": "49565",
+                "Anesthesia Type": "General",
+                "Probability of Bleed Risk": 0.8827181104132482,
+                "Probability of Infection Risk": 0.71198827858445673,
+                "Age": 55.0,
+                "Sex": "Female",
+                "Bleed Risk Level": "High",
+                "Infection Risk Level": "High",
+                "Decreasing Risk": {
+                    "Admission to Operation Days": {
+                        "Weight": -0.01675056207284031,
+                        "Original Value": "11.0"
+                    },
+                    "Pre-op BUN": {
+                        "Weight": -0.022474230767321465,
+                        "Original Value": "13.0"
+                    },
+                    "Weight": {
+                        "Weight": -0.00918572865258698,
+                        "Original Value": "186.0"
+                    },
+                    "Ascites": {
+                        "Weight": -9.783306153628148e-05,
+                        "Original Value": "No"
+                    },
+                    "Risk of bleed disorder": {
+                        "Weight": -0.013099473193094263,
+                        "Original Value": "No"
+                    },
+                    "Diabetes": {
+                        "Weight": -5.031361789194165e-06,
+                        "Original Value": "No"
+                    },
+                    "Disseminated cancer": {
+                        "Weight": -0.006461654248821739,
+                        "Original Value": "No"
+                    },
+                    "Emergency Case": {
+                        "Weight": -0.007754461404149989,
+                        "Original Value": "Yes"
+                    },
+                    "History of CHF": {
+                        "Weight": -1.1312018187630058e-05,
+                        "Original Value": "No"
+                    },
+                    "History of COPD": {
+                        "Weight": -0.003246201193077388,
+                        "Original Value": "No"
+                    },
+                    "Hypertension": {
+                        "Weight": -0.006450583218010396,
+                        "Original Value": "No"
+                    },
+                    "Systemic Sepsis": {
+                        "Weight": -0.012334439203652407,
+                        "Original Value": "No"
+                    },
+                    "Race": {
+                        "Weight": -0.0005647429016505845,
+                        "Original Value": "White"
+                    },
+                    "Pre-op acute renal failure": {
+                        "Weight": -3.4882859874068424e-06,
+                        "Original Value": "No"
+                    },
+                    "Surgical specialty": {
+                        "Weight": -0.2907569999790237,
+                        "Original Value": "General Surgery"
+                    },
+                    "Pre-op transfusion": {
+                        "Weight": -0.005310146375047133,
+                        "Original Value": "No"
+                    },
+                    "Ventilator dependent pre-op": {
+                        "Weight": -0.00035089836366085234,
+                        "Original Value": "No"
+                    },
+                    ">10% loss of body weight in last 6 months": {
+                        "Weight": -0.0029089989958512533,
+                        "Original Value": "No"
+                    }
+                },
+                "Increasing Risk": {
+                    "Age": {
+                        "Weight": 0.006112168832299621,
+                        "Original Value": "55.0"
+                    },
+                    "Height": {
+                        "Weight": 0.011634902149121275,
+                        "Original Value": "66.0"
+                    },
+                    "Pre-op serum albumin": {
+                        "Weight": 0.003289107816723057,
+                        "Original Value": "1.9"
+                    },
+                    "Pre-op alkaline phosphatase": {
+                        "Weight": 0.13293819393904316,
+                        "Original Value": "119.0"
+                    },
+                    "Pre-op total bilirubin": {
+                        "Weight": 1.615952935053646e-05,
+                        "Original Value": "0.1"
+                    },
+                    "Pre-op serum creatinine": {
+                        "Weight": 0.0055183300582989,
+                        "Original Value": "0.45"
+                    },
+                    "Pre-op hematocrit": {
+                        "Weight": 2.480023659808789,
+                        "Original Value": "26.1"
+                    },
+                    "INR": {
+                        "Weight": 0.28804231937026437,
+                        "Original Value": "0.9"
+                    },
+                    "Pre-op WBC": {
+                        "Weight": 0.03250370878294926,
+                        "Original Value": "3.3"
+                    },
+                    "Anesthesia technique": {
+                        "Weight": 0.05403136266216958,
+                        "Original Value": "General"
+                    },
+                    
+                    "Dyspnea": {
+                        "Weight": 0.037397267984630486,
+                        "Original Value": "Yes"
+                    },
+                    "Elective Surgery": {
+                        "Weight": 0.15137722431415707,
+                        "Original Value": "No"
+                    },
+                    "Hispanic Ethnicity": {
+                        "Weight": 0.004052856082999477,
+                        "Original Value": "No"
+                    },
+                    "Functional health status": {
+                        "Weight": 0.1518955245289413,
+                        "Original Value": "Partially Dependent"
+                    },
+                    "Principal CPT": {
+                        "Weight": 0.24599169348135355,
+                        "Original Value": "49565"
+                    },
+                    "Sex": {
+                        "Weight": 3.6377552061512154e-05,
+                        "Original Value": "Female"
+                    },
+                    "Steroid use for chronic condition": {
+                        "Weight": 0.001259263542462585,
+                        "Original Value": "No"
+                    },
+                    "Open wound/wound infection pre-op": {
+                        "Weight": 0.0003296425076835546,
+                        "Original Value": "Yes"
+                    }
+                },
+                "Recommendation": [
+                    "A",
+                    "IP"
+                ]
+            }
+        },
+        {
+            "M500952": {
+                "Patient Name": "William Arias",
+                "MRN": "M500952",
+                "OR": "1B",
+                "Procedure Date": "2022-07-25",
+                "Procedure Time": "8:30 AM EST",
+                "Primary Procedure": "ENTRC RESCJ SMALL INTESTINE 1 RESCJ & ANAST",
+                "Primary Procedure CPT Code": "44120",
+                "Anesthesia Type": "General",
+                "Probability of Bleed Risk": 0.9394181164372699,
+                "Probability of Infection Risk": 0.01985422424791541,
+                "Age": 57.0,
+                "Sex": "Male",
+                "Bleed Risk Level": "High",
+                "Infection Risk Level": "Low",
+                "Decreasing Risk": {
+                    "Admission to Operation Days": {
+                        "Weight": -0.04233697021011436,
+                        "Original Value": "3.0"
+                    },
+                    "Pre-op BUN": {
+                        "Weight": -0.027064546848294093,
+                        "Original Value": "6.0"
+                    },
+                    "Pre-op serum creatinine": {
+                        "Weight": -0.0030559355456288777,
+                        "Original Value": "0.83"
+                    },
+                    "Ascites": {
+                        "Weight": -0.0005169292403831725,
+                        "Original Value": "No"
+                    },
+                    "Risk of bleed disorder": {
+                        "Weight": -0.014280020292384192,
+                        "Original Value": "No"
+                    },
+                    "Diabetes": {
+                        "Weight": -5.031361789194165e-06,
+                        "Original Value": "No"
+                    },
+                    "Disseminated cancer": {
+                        "Weight": -0.007754434580436486,
+                        "Original Value": "No"
+                    },
+                    "Dyspnea": {
+                        "Weight": -0.0020557819897568212,
+                        "Original Value": "No"
+                    },
+                    "Functional health status": {
+                        "Weight": -0.0033485621196021787,
+                        "Original Value": "Independent"
+                    },
+                    "History of CHF": {
+                        "Weight": -1.1312018187630058e-05,
+                        "Original Value": "No"
+                    },
+                    "History of COPD": {
+                        "Weight": -0.003331312562800841,
+                        "Original Value": "No"
+                    },
+                    "Systemic Sepsis": {
+                        "Weight": -0.012734898731337721,
+                        "Original Value": "No"
+                    },
+                    "Race": {
+                        "Weight": -8.089629318495966e-05,
+                        "Original Value": "White"
+                    },
+                    "Pre-op acute renal failure": {
+                        "Weight": -3.4882859874068424e-06,
+                        "Original Value": "No"
+                    },
+                    "Sex": {
+                        "Weight": -5.19224326345058e-05,
+                        "Original Value": "Male"
+                    },
+                    "Steroid use for chronic condition": {
+                        "Weight": -0.0010838731083952096,
+                        "Original Value": "No"
+                    },
+                    "Surgical specialty": {
+                        "Weight": -0.2791891500483499,
+                        "Original Value": "General Surgery"
+                    },
+                    "Ventilator dependent pre-op": {
+                        "Weight": -0.00032340488133038325,
+                        "Original Value": "No"
+                    },
+                    "Open wound/wound infection pre-op": {
+                        "Weight": -1.2525633876283612e-06,
+                        "Original Value": "No"
+                    },
+                    ">10% loss of body weight in last 6 months": {
+                        "Weight": -0.0029102029361543786,
+                        "Original Value": "No"
+                    }
+                },
+                "Increasing Risk": {
+                    "Age": {
+                        "Weight": 0.045190123384601606,
+                        "Original Value": "57.0"
+                    },
+                    "Height": {
+                        "Weight": 0.014812433641635635,
+                        "Original Value": "69.0"
+                    },
+                    "Pre-op serum albumin": {
+                        "Weight": 0.009902960593728348,
+                        "Original Value": "3.0"
+                    },
+                    "Pre-op alkaline phosphatase": {
+                        "Weight": 0.07135076948985852,
+                        "Original Value": "110.0"
+                    },
+                    "Pre-op total bilirubin": {
+                        "Weight": 0.00028987715827924617,
+                        "Original Value": "0.2"
+                    },
+                    "Pre-op hematocrit": {
+                        "Weight": 2.446428713242755,
+                        "Original Value": "26.6"
+                    },
+                    "INR": {
+                        "Weight": 0.3205507460612965,
+                        "Original Value": "1.0"
+                    },
+                    "Pre-op WBC": {
+                        "Weight": 0.03249325922903745,
+                        "Original Value": "9.6"
+                    },
+                    "Weight": {
+                        "Weight": 0.008620208936544105,
+                        "Original Value": "106.0"
+                    },
+                    "Anesthesia technique": {
+                        "Weight": 0.05010728401682615,
+                        "Original Value": "General"
+                    },
+                    "Elective Surgery": {
+                        "Weight": 0.15135235556030097,
+                        "Original Value": "No"
+                    },
+                    "Emergency Case": {
+                        "Weight": 0.06912273083163656,
+                        "Original Value": "No"
+                    },
+                    "Hispanic Ethnicity": {
+                        "Weight": 0.004833173500620964,
+                        "Original Value": "No"
+                    },
+                    "Hypertension": {
+                        "Weight": 0.0079352104013166,
+                        "Original Value": "Yes"
+                    },
+                    "Principal CPT": {
+                        "Weight": 0.4599230468405637,
+                        "Original Value": "44120"
+                    },
+                    "Pre-op transfusion": {
+                        "Weight": 0.6079071372890518,
+                        "Original Value": "Yes"
+                    }
+                },
+                "Recommendation": [
+                    "H",
+                    "S"
+                ]
+            }
+        },
+        {
+            "M551852": {
+                "Patient Name": "Edwin Agee",
+                "MRN": "M551852",
+                "OR": "1B",
+                "Procedure Date": "2022-07-25",
+                "Procedure Time": "10:30 AM EST",
+                "Primary Procedure": "ENTRC RESCJ SMALL INTESTINE 1 RESCJ & ANAST",
+                "Primary Procedure CPT Code": "44120",
+                "Anesthesia Type": "General",
+                "Probability of Bleed Risk": 0.31400766927480733,
+                "Probability of Infection Risk": 0.005072858273839758,
+                "Age": 25.0,
+                "Sex": "Male",
+                "Bleed Risk Level": "Low",
+                "Infection Risk Level": "Low",
+                "Decreasing Risk": {
+                    "Age": {
+                        "Weight": -0.33568388918188746,
+                        "Original Value": "25.0"
+                    },
+                    "Admission to Operation Days": {
+                        "Weight": -0.04832044541014477,
+                        "Original Value": "2.0"
+                    },
+                    "Pre-op serum albumin": {
+                        "Weight": -0.002262716853221006,
+                        "Original Value": "3.6"
+                    },
+                    "Pre-op alkaline phosphatase": {
+                        "Weight": -0.02323707455923764,
+                        "Original Value": "55.0"
+                    },
+                    "Pre-op BUN": {
+                        "Weight": -0.026130150262671306,
+                        "Original Value": "16.0"
+                    },
+                    "Pre-op serum creatinine": {
+                        "Weight": -0.005794453557987719,
+                        "Original Value": "0.59"
+                    },
+                    "Pre-op hematocrit": {
+                        "Weight": -0.2886316650506387,
+                        "Original Value": "40.0"
+                    },
+                    "Ascites": {
+                        "Weight": -0.0005182961383018276,
+                        "Original Value": "No"
+                    },
+                    "Risk of bleed disorder": {
+                        "Weight": -0.014850912534444807,
+                        "Original Value": "No"
+                    },
+                    "Diabetes": {
+                        "Weight": -2.114202845519407e-06,
+                        "Original Value": "No"
+                    },
+                    "Disseminated cancer": {
+                        "Weight": -0.010586478938069448,
+                        "Original Value": "No"
+                    },
+                    "Dyspnea": {
+                        "Weight": -0.0020560609181298293,
+                        "Original Value": "No"
+                    },
+                    "History of CHF": {
+                        "Weight": -1.1945700665944794e-05,
+                        "Original Value": "No"
+                    },
+                    "History of COPD": {
+                        "Weight": -0.0034517058609084437,
+                        "Original Value": "No"
+                    },
+                    "Hypertension": {
+                        "Weight": -0.006450583218010396,
+                        "Original Value": "No"
+                    },
+                    "Systemic Sepsis": {
+                        "Weight": -0.012949960795526976,
+                        "Original Value": "No"
+                    },
+                    "Race": {
+                        "Weight": -0.00025748958140021585,
+                        "Original Value": "White"
+                    },
+                    "Pre-op acute renal failure": {
+                        "Weight": -3.6498433498451498e-06,
+                        "Original Value": "No"
+                    },
+                    "Sex": {
+                        "Weight": -5.19224326345058e-05,
+                        "Original Value": "Male"
+                    },
+                    "Steroid use for chronic condition": {
+                        "Weight": -0.0010838731083952096,
+                        "Original Value": "No"
+                    },
+                    "Surgical specialty": {
+                        "Weight": -0.3613221963873877,
+                        "Original Value": "General Surgery"
+                    },
+                    "Pre-op transfusion": {
+                        "Weight": -0.005751767207877427,
+                        "Original Value": "No"
+                    },
+                    "Ventilator dependent pre-op": {
+                        "Weight": -0.00045415440091013676,
+                        "Original Value": "No"
+                    },
+                    "Open wound/wound infection pre-op": {
+                        "Weight": -3.116850890124034e-07,
+                        "Original Value": "No"
+                    },
+                    ">10% loss of body weight in last 6 months": {
+                        "Weight": -0.002836546792152285,
+                        "Original Value": "No"
+                    }
+                },
+                "Increasing Risk": {
+                    "Height": {
+                        "Weight": 0.017592213107638588,
+                        "Original Value": "61.0"
+                    },
+                    "Pre-op total bilirubin": {
+                        "Weight": 0.0003390064467003208,
+                        "Original Value": "0.8"
+                    },
+                    "INR": {
+                        "Weight": 0.3701064236909337,
+                        "Original Value": "1.1"
+                    },
+                    "Pre-op WBC": {
+                        "Weight": 0.012139098405474417,
+                        "Original Value": "9.9"
+                    },
+                    "Weight": {
+                        "Weight": 0.008716955435096298,
+                        "Original Value": "85.0"
+                    },
+                    "Anesthesia technique": {
+                        "Weight": 0.05358585294046899,
+                        "Original Value": "General"
+                    },
+                    "Elective Surgery": {
+                        "Weight": 0.12652156168233517,
+                        "Original Value": "No"
+                    },
+                    "Emergency Case": {
+                        "Weight": 0.06563652364890023,
+                        "Original Value": "Yes"
+                    },
+                    "Hispanic Ethnicity": {
+                        "Weight": 0.004826903846846771,
+                        "Original Value": "Yes"
+                    },
+                    "Functional health status": {
+                        "Weight": 0.20068025503484155,
+                        "Original Value": "Totally Dependent"
+                    },
+                    "Principal CPT": {
+                        "Weight": 0.577000959773315,
+                        "Original Value": "44120"
+                    }
+                },
+                "Recommendation": [
+                    "S"
+                ]
+            }
+        },
+        {
+            "M597433": {
+                "Patient Name": "David Walbridge",
+                "MRN": "M597433",
+                "OR": "1A",
+                "Procedure Date": "2022-07-25",
+                "Procedure Time": "1:00 PM EST",
+                "Primary Procedure": "RPR 1ST INCAL/VNT HERNIA INCARCERATED",
+                "Primary Procedure CPT Code": "49561",
+                "Anesthesia Type": "General",
+                "Probability of Bleed Risk": 0.4606701220198071,
+                "Probability of Infection Risk": 0.0306464795959693386,
+                "Age": 60.0,
+                "Sex": "Male",
+                "Bleed Risk Level": "Low",
+                "Infection Risk Level": "Low",
+                "Decreasing Risk": {
+                    "Pre-op alkaline phosphatase": {
+                        "Weight": -0.023580358911838944,
+                        "Original Value": "67.0"
+                    },
+                    "Pre-op total bilirubin": {
+                        "Weight": -4.355672568153799e-05,
+                        "Original Value": "0.6"
+                    },
+                    "Pre-op hematocrit": {
+                        "Weight": -0.15947690225169966,
+                        "Original Value": "Not available"
+                    },
+                    "Pre-op WBC": {
+                        "Weight": -0.10346191991143724,
+                        "Original Value": "Not available"
+                    },
+                    "Weight": {
+                        "Weight": -0.008176686419502513,
+                        "Original Value": "224.0"
+                    },
+                    "Ascites": {
+                        "Weight": -9.268934169020625e-05,
+                        "Original Value": "No"
+                    },
+                    "Diabetes": {
+                        "Weight": -5.031361789194165e-06,
+                        "Original Value": "No"
+                    },
+                    "Disseminated cancer": {
+                        "Weight": -0.007212935752822717,
+                        "Original Value": "No"
+                    },
+                    "Dyspnea": {
+                        "Weight": -0.002098631142131272,
+                        "Original Value": "No"
+                    },
+                    "Functional health status": {
+                        "Weight": -0.002507141290446323,
+                        "Original Value": "Independent"
+                    },
+                    "History of CHF": {
+                        "Weight": -7.556184000685877e-06,
+                        "Original Value": "No"
+                    },
+                    "Systemic Sepsis": {
+                        "Weight": -0.013052503318513388,
+                        "Original Value": "No"
+                    },
+                    "Race": {
+                        "Weight": -0.0005157091078362686,
+                        "Original Value": "White"
+                    },
+                    "Pre-op acute renal failure": {
+                        "Weight": -5.0794295568190886e-06,
+                        "Original Value": "No"
+                    },
+                    "Sex": {
+                        "Weight": -6.003832015119942e-05,
+                        "Original Value": "Male"
+                    },
+                    "Surgical specialty": {
+                        "Weight": -0.2882119279988352,
+                        "Original Value": "General Surgery"
+                    },
+                    "Pre-op transfusion": {
+                        "Weight": -0.005673770541870166,
+                        "Original Value": "No"
+                    },
+                    "Ventilator dependent pre-op": {
+                        "Weight": -0.00035757525051355375,
+                        "Original Value": "No"
+                    },
+                    "Open wound/wound infection pre-op": {
+                        "Weight": -1.2525633876283612e-06,
+                        "Original Value": "No"
+                    },
+                    ">10% loss of body weight in last 6 months": {
+                        "Weight": -0.0019358197683320034,
+                        "Original Value": "No"
+                    }
+                },
+                "Increasing Risk": {
+                    "Age": {
+                        "Weight": 0.12093198797470345,
+                        "Original Value": "60.0"
+                    },
+                    "Height": {
+                        "Weight": 0.039330188824191016,
+                        "Original Value": "67.0"
+                    },
+                    "Admission to Operation Days": {
+                        "Weight": 0.0010387317422372645,
+                        "Original Value": "0.0"
+                    },
+                    "Pre-op serum albumin": {
+                        "Weight": 0.006686020885365354,
+                        "Original Value": "3.7"
+                    },
+                    "Pre-op BUN": {
+                        "Weight": 0.030682822075802953,
+                        "Original Value": "21.0"
+                    },
+                    "Pre-op serum creatinine": {
+                        "Weight": 0.054730587179485445,
+                        "Original Value": "1.35"
+                    },
+                    "INR": {
+                        "Weight": 0.344895125548958,
+                        "Original Value": "0.9"
+                    },
+                    "Anesthesia technique": {
+                        "Weight": 0.06981793952181989,
+                        "Original Value": "General"
+                    },
+                    "Risk of bleed disorder": {
+                        "Weight": 0.29647423892856867,
+                        "Original Value": "Yes"
+                    },
+                    "Elective Surgery": {
+                        "Weight": 0.18001441912786975,
+                        "Original Value": "No"
+                    },
+                    "Emergency Case": {
+                        "Weight": 0.07086082293972609,
+                        "Original Value": "Yes"
+                    },
+                    "Hispanic Ethnicity": {
+                        "Weight": 0.016308144141908447,
+                        "Original Value": "No"
+                    },
+                    "History of COPD": {
+                        "Weight": 0.06633442820694066,
+                        "Original Value": "Yes"
+                    },
+                    "Hypertension": {
+                        "Weight": 0.01859702910539444,
+                        "Original Value": "Yes"
+                    },
+                    "Principal CPT": {
+                        "Weight": 0.3015677342632296,
+                        "Original Value": "49561"
+                    },
+                    "Steroid use for chronic condition": {
+                        "Weight": 7.848064559963836e-06,
+                        "Original Value": "No"
+                    }
+                },
+                "Recommendation": [
+                    "S"
+                ]
+            }
+        }
+    ],
+    "Gynecology": [
+        {
+            "M597026": {
+                "Patient Name": "Annie Taegel",
+                "MRN": "M597026",
+                "OR": "1A",
+                "Procedure Date": "2022-07-25",
+                "Procedure Time": "7:00 AM EST",
+                "Primary Procedure": "SUPRACERVICAL ABDL HYSTER W/WO RMVL TUBE OVARY",
+                "Primary Procedure CPT Code": "58180",
+                "Anesthesia Type": "General",
+                "Probability of Bleed Risk": 0.8682218687193335,
+                "Probability of Infection Risk": 0.024799842599091827,
+                "Age": 43.0,
+                "Sex": "Female",
+                "Bleed Risk Level": "High",
+                "Infection Risk Level": "Low",
+                "Decreasing Risk": {
+                    "Age": {
+                        "Weight": -0.21283908083652137,
+                        "Original Value": "43.0"
+                    },
+                    "Admission to Operation Days": {
+                        "Weight": -0.0038600954843110704,
+                        "Original Value": "14.0"
+                    },
+                    "Pre-op BUN": {
+                        "Weight": -0.01824346120645967,
+                        "Original Value": "14.0"
+                    },
+                    "Pre-op serum creatinine": {
+                        "Weight": -0.0012239907565573876,
+                        "Original Value": "0.75"
+                    },
+                    "Ascites": {
+                        "Weight": -0.0005503900353065227,
+                        "Original Value": "No"
+                    },
+                    
+                    "Risk of bleed disorder": {
+                        "Weight": -0.016450781717559676,
+                        "Original Value": "No"
+                    },
+                    "Diabetes": {
+                        "Weight": -2.114202845519407e-06,
+                        "Original Value": "No"
+                    },
+                    "Disseminated cancer": {
+                        "Weight": -0.007100775239329343,
+                        "Original Value": "No"
+                    },
+                    "Dyspnea": {
+                        "Weight": -0.00202148331488667,
+                        "Original Value": "No"
+                    },
+                    "Emergency Case": {
+                        "Weight": -0.007410436342775979,
+                        "Original Value": "Yes"
+                    },
+                    "Functional health status": {
+                        "Weight": -0.004360380360496064,
+                        "Original Value": "Partially Dependent"
+                    },
+                    "History of COPD": {
+                        "Weight": -0.0032386921951460977,
+                        "Original Value": "No"
+                    },
+                    "Hypertension": {
+                        "Weight": -0.006450583218010396,
+                        "Original Value": "No"
+                    },
+                    "Systemic Sepsis": {
+                        "Weight": -0.007614797423299814,
+                        "Original Value": "No"
+                    },
+                    "Race": {
+                        "Weight": -0.0012967659650143237,
+                        "Original Value": "African American"
+                    },
+                    "Pre-op acute renal failure": {
+                        "Weight": -4.163221243796407e-06,
+                        "Original Value": "No"
+                    },
+                    "Steroid use for chronic condition": {
+                        "Weight": -0.0010838731083952096,
+                        "Original Value": "No"
+                    },
+                    "Surgical specialty": {
+                        "Weight": -0.015979075176346443,
+                        "Original Value": "Gynecology"
+                    },
+                    "Pre-op transfusion": {
+                        "Weight": -0.005995510180993994,
+                        "Original Value": "No"
+                    },
+                    "Ventilator dependent pre-op": {
+                        "Weight": -0.00035093002319637614,
+                        "Original Value": "No"
+                    },
+                    ">10% loss of body weight in last 6 months": {
+                        "Weight": -0.0024347429145170647,
+                        "Original Value": "No"
+                    }
+                },
+                "Increasing Risk": {
+                    "Height": {
+                        "Weight": 0.014765009173073614,
+                        "Original Value": "67.0"
+                    },
+                    "Pre-op serum albumin": {
+                        "Weight": 0.0027166354000006327,
+                        "Original Value": "3.5"
+                    },
+                    "Pre-op alkaline phosphatase": {
+                        "Weight": 0.13796461938418286,
+                        "Original Value": "154.0"
+                    },
+                    "Pre-op total bilirubin": {
+                        "Weight": 7.836143076173938e-05,
+                        "Original Value": "0.4"
+                    },
+                    "Pre-op hematocrit": {
+                        "Weight": 1.7466624650007716,
+                        "Original Value": "30.3"
+                    },
+                    "INR": {
+                        "Weight": 0.282942083892369,
+                        "Original Value": "1.0"
+                    },
+                    "Pre-op WBC": {
+                        "Weight": 0.03048395234151554,
+                        "Original Value": "8.58"
+                    },
+                    "Weight": {
+                        "Weight": 0.008804675157663725,
+                        "Original Value": "152.0"
+                    },
+                    "Anesthesia technique": {
+                        "Weight": 0.05089742373071748,
+                        "Original Value": "General"
+                    },
+                    "Elective Surgery": {
+                        "Weight": 0.11958800594501423,
+                        "Original Value": "Yes"
+                    },
+                    "Hispanic Ethnicity": {
+                        "Weight": 0.00610346751345806,
+                        "Original Value": "No"
+                    },
+                    "History of CHF": {
+                        "Weight": 2.3233311076518043e-05,
+                        "Original Value": "No"
+                    },
+                    "Principal CPT": {
+                        "Weight": 0.9503614358580107,
+                        "Original Value": "58180"
+                    },
+                    "Sex": {
+                        "Weight": 3.6377552061512154e-05,
+                        "Original Value": "Female"
+                    },
+                    "Open wound/wound infection pre-op": {
+                        "Weight": 8.202750883862268e-05,
+                        "Original Value": "Yes"
+                    }
+                },
+                "Recommendation": [
+                    "H",
+                    "S"
+                ]
+            }
+        },
+        {
+            "M576166": {
+                "Patient Name": "Mildred Watson",
+                "MRN": "M576166",
+                "OR": "1C",
+                "Procedure Date": "2022-07-25",
+                "Procedure Time": "8:45 AM EST",
+                "Primary Procedure": "HYSTERORRHAPHY RUPTURED UTERUS",
+                "Primary Procedure CPT Code": "58520",
+                "Anesthesia Type": "General",
+                "Probability of Bleed Risk": 0.8236437401901706,
+                "Probability of Infection Risk": 0.042002749668550679,
+                "Age": 42.0,
+                "Sex": "Female",
+                "Bleed Risk Level": "High",
+                "Infection Risk Level": "Low",
+                "Decreasing Risk": {
+                    "Age": {
+                        "Weight": -0.24329215367090862,
+                        "Original Value": "42.0"
+                    },
+                    "Pre-op serum albumin": {
+                        "Weight": -0.0022257572807430257,
+                        "Original Value": "Not available"
+                    },
+                    "Pre-op alkaline phosphatase": {
+                        "Weight": -0.02364864249267568,
+                        "Original Value": "Not available"
+                    },
+                    "Pre-op BUN": {
+                        "Weight": -0.01515751371272239,
+                        "Original Value": "15.0"
+                    },
+                    "INR": {
+                        "Weight": -0.23111334644891598,
+                        "Original Value": "Not available"
+                    },
+                    "Weight": {
+                        "Weight": -0.009916134058652075,
+                        "Original Value": "240.0"
+                    },
+                    "Ascites": {
+                        "Weight": -0.0005437572755957478,
+                        "Original Value": "No"
+                    },
+                    "Risk of bleed disorder": {
+                        "Weight": -0.014398020111900783,
+                        "Original Value": "No"
+                    },
+                    "Diabetes": {
+                        "Weight": -2.114202845519407e-06,
+                        "Original Value": "No"
+                    },
+                    "Dyspnea": {
+                        "Weight": -0.0018731885921034336,
+                        "Original Value": "No"
+                    },
+                    "Functional health status": {
+                        "Weight": -0.005994704897981752,
+                        "Original Value": "Independent"
+                    },
+                    "History of CHF": {
+                        "Weight": -1.1315986741552281e-05,
+                        "Original Value": "No"
+                    },
+                    "History of COPD": {
+                        "Weight": -0.0031321153191478587,
+                        "Original Value": "No"
+                    },
+                    "Systemic Sepsis": {
+                        "Weight": -0.007977356872832134,
+                        "Original Value": "No"
+                    },
+                    "Race": {
+                        "Weight": -0.000962542128915972,
+                        "Original Value": "White"
+                    },
+                    "Pre-op acute renal failure": {
+                        "Weight": -3.1461278355953004e-06,
+                        "Original Value": "No"
+                    },
+                    "Pre-op transfusion": {
+                        "Weight": -0.0062206236899271595,
+                        "Original Value": "No"
+                    },
+                    "Ventilator dependent pre-op": {
+                        "Weight": -0.00035093002319637614,
+                        "Original Value": "No"
+                    },
+                    "Open wound/wound infection pre-op": {
+                        "Weight": -3.116850890124034e-07,
+                        "Original Value": "No"
+                    },
+                    ">10% loss of body weight in last 6 months": {
+                        "Weight": -0.002527244475894442,
+                        "Original Value": "No"
+                    }
+                },
+                "Increasing Risk": {
+                    "Height": {
+                        "Weight": 0.012405166547039184,
+                        "Original Value": "65.0"
+                    },
+                    "Admission to Operation Days": {
+                        "Weight": 0.0015893032583314337,
+                        "Original Value": "0.0"
+                    },
+                    "Pre-op total bilirubin": {
+                        "Weight": 0.0014583560984137796,
+                        "Original Value": "Not available"
+                    },
+                    "Pre-op serum creatinine": {
+                        "Weight": 0.0187416895185272,
+                        "Original Value": "1.23"
+                    },
+                    "Pre-op hematocrit": {
+                        "Weight": 2.0741647803703422,
+                        "Original Value": "28.3"
+                    },
+                    "Pre-op WBC": {
+                        "Weight": 0.03564014912083091,
+                        "Original Value": "6.1"
+                    },
+                    "Anesthesia technique": {
+                        "Weight": 0.049715312132208464,
+                        "Original Value": "General"
+                    },
+                    "Disseminated cancer": {
+                        "Weight": 0.3133593123630646,
+                        "Original Value": "Yes"
+                    },
+                    "Hispanic Ethnicity": {
+                        "Weight": 0.004879493319524126,
+                        "Original Value": "No"
+                    },
+                    "Hypertension": {
+                        "Weight": 0.008582196388593748,
+                        "Original Value": "Yes"
+                    },
+                    "Principal CPT": {
+                        "Weight": 0.5713249796386186,
+                        "Original Value": "44143"
+                    },
+                    "Sex": {
+                        "Weight": 3.99033294930723e-05,
+                        "Original Value": "Female"
+                    },
+                    "Steroid use for chronic condition": {
+                        "Weight": 0.028324786761931453,
+                        "Original Value": "Yes"
+                    },
+                    "Surgical specialty": {
+                        "Weight": 0.04884899546491765,
+                        "Original Value": "Gynecology"
+                    }
+                },
+                "Recommendation": [
+                    "H",
+                    "S"
+                ]
+            }
+        },
+        {
+            "M511167": {
+                "Patient Name": "Charlene Anders",
+                "MRN": "M511167",
+                "OR": "1C",
+                "Procedure Date": "2022-07-25",
+                "Procedure Time": "10:45 AM EST",
+                "Primary Procedure": "I&D VULVA/PERINEAL ABSCESS",
+                "Primary Procedure CPT Code": "56405",
+                "Anesthesia Type": "General",
+                "Probability of Bleed Risk": 0.1874407489725644,
+                "Probability of Infection Risk": 0.48409581214888154,
+                "Age": 39.0,
+                "Sex": "Female",
+                "Bleed Risk Level": "Low",
+                "Infection Risk Level": "High",
+                "Decreasing Risk": {
+                    "Age": {
+                        "Weight": -0.347376966685483,
+                        "Original Value": "39.0"
+                    },
+                    "Pre-op serum albumin": {
+                        "Weight": -0.0025872897998233182,
+                        "Original Value": "Not taken"
+                    },
+                    "Pre-op alkaline phosphatase": {
+                        "Weight": -0.013670101071162467,
+                        "Original Value": "Not taken"
+                    },
+                    "Pre-op BUN": {
+                        "Weight": -0.018016107086971007,
+                        "Original Value": "7.0"
+                    },
+                    "Pre-op hematocrit": {
+                        "Weight": -0.09939814495332584,
+                        "Original Value": "38.8"
+                    },
+                    "Ascites": {
+                        "Weight": -0.00010657580546755279,
+                        "Original Value": "No"
+                    },
+                    "Risk of bleed disorder": {
+                        "Weight": -0.013646558444118842,
+                        "Original Value": "No"
+                    },
+                    "Diabetes": {
+                        "Weight": -2.114202845519407e-06,
+                        "Original Value": "No"
+                    },
+                    "Disseminated cancer": {
+                        "Weight": -0.0094780020240803,
+                        "Original Value": "No"
+                    },
+                    "Dyspnea": {
+                        "Weight": -0.0020560609181298293,
+                        "Original Value": "No"
+                    },
+                    "Emergency Case": {
+                        "Weight": -0.007444752749055372,
+                        "Original Value": "Yes"
+                    },
+                    "Hispanic Ethnicity": {
+                        "Weight": -0.014439193580000153,
+                        "Original Value": "Yes"
+                    },
+                    "Functional health status": {
+                        "Weight": -0.0054891867892036235,
+                        "Original Value": "Independent"
+                    },
+                    "History of CHF": {
+                        "Weight": -1.1838232608153045e-05,
+                        "Original Value": "No"
+                    },
+                    "History of COPD": {
+                        "Weight": -0.0034561100430469437,
+                        "Original Value": "No"
+                    },
+                    "Hypertension": {
+                        "Weight": -0.003017102341940231,
+                        "Original Value": "No"
+                    },
+                    "Systemic Sepsis": {
+                        "Weight": -0.009008410034467723,
+                        "Original Value": "No"
+                    },
+                    "Race": {
+                        "Weight": -0.0005567011695056108,
+                        "Original Value": "White"
+                    },
+                    "Pre-op acute renal failure": {
+                        "Weight": -5.847776914216991e-06,
+                        "Original Value": "No"
+                    },
+                    "Steroid use for chronic condition": {
+                        "Weight": -0.0010838731083952096,
+                        "Original Value": "No"
+                    },
+                    "Surgical specialty": {
+                        "Weight": -0.15060282904288405,
+                        "Original Value": "Gynecology"
+                    },
+                    "Pre-op transfusion": {
+                        "Weight": -0.00652326373975847,
+                        "Original Value": "No"
+                    },
+                    "Ventilator dependent pre-op": {
+                        "Weight": -0.0004877124530519088,
+                        "Original Value": "No"
+                    },
+                    "Open wound/wound infection pre-op": {
+                        "Weight": -3.116850890124034e-07,
+                        "Original Value": "No"
+                    },
+                    ">10% loss of body weight in last 6 months": {
+                        "Weight": -0.0024382873305531403,
+                        "Original Value": "No"
+                    }
+                },
+                "Increasing Risk": {
+                    "Height": {
+                        "Weight": 0.0537702499546479,
+                        "Original Value": "61.0"
+                    },
+                    "Admission to Operation Days": {
+                        "Weight": 0.001087173986320111,
+                        "Original Value": "0.0"
+                    },
+                    "Pre-op total bilirubin": {
+                        "Weight": 1.4532434935237278e-05,
+                        "Original Value": "Not taken"
+                    },
+                    "Pre-op serum creatinine": {
+                        "Weight": 0.0018903001829244034,
+                        "Original Value": "0.54"
+                    },
+                    "INR": {
+                        "Weight": 0.3723906481586592,
+                        "Original Value": "1.1"
+                    },
+                    "Pre-op WBC": {
+                        "Weight": 0.016387974241170392,
+                        "Original Value": "16.4"
+                    },
+                    "Weight": {
+                        "Weight": 0.001013217033858847,
+                        "Original Value": "132.0"
+                    },
+                    "Anesthesia technique": {
+                        "Weight": 0.05441610813260381,
+                        "Original Value": "General"
+                    },
+                    "Elective Surgery": {
+                        "Weight": 0.03844914869372643,
+                        "Original Value": "Yes"
+                    },
+                    "Principal CPT": {
+                        "Weight": 0.11263162856040515,
+                        "Original Value": "56405"
+                    },
+                    "Sex": {
+                        "Weight": 3.99033294930723e-05,
+                        "Original Value": "Female"
+                    }
+                },
+                "Recommendation": [
+                    "IP"
+                ]
+            }
+        },
+        {
+            "M513079": {
+                "Patient Name": "Tracy Goggans",
+                "MRN": "M513079",
+                "OR": "1C",
+                "Procedure Date": "2022-07-25",
+                "Procedure Time": "2:00 PM EST",
+                "Primary Procedure": "SLING OPERATION STRESS INCONTINENCE",
+                "Primary Procedure CPT Code": "57288",
+                "Anesthesia Type": "General",
+                "Probability of Bleed Risk": 0.42752299212811945,
+                "Probability of Infection Risk": 0.0383796616094983,
+                "Age": 29.0,
+                "Sex": "Female",
+                "Bleed Risk Level": "Low",
+                "Infection Risk Level": "Low",
+                "Decreasing Risk": {
+                    "Age": {
+                        "Weight": -0.31089054939414373,
+                        "Original Value": "29.0"
+                    },
+                    "Pre-op serum albumin": {
+                        "Weight": -0.006739310237416695,
+                        "Original Value": "Not available"
+                    },
+                    "Pre-op alkaline phosphatase": {
+                        "Weight": -0.02597179311360465,
+                        "Original Value": "Not available"
+                    },
+                    "Pre-op total bilirubin": {
+                        "Weight": -0.000257136043559089,
+                        "Original Value": "Not available"
+                    },
+                    "INR": {
+                        "Weight": -0.2627619354297985,
+                        "Original Value": "Not available"
+                    },
+                    "Pre-op WBC": {
+                        "Weight": -0.2065279203639349,
+                        "Original Value": "Not available"
+                    },
+                    "Weight": {
+                        "Weight": -0.045922897975896965,
+                        "Original Value": "200.0"
+                    },
+                    "Ascites": {
+                        "Weight": -0.00011396200310161462,
+                        "Original Value": "No"
+                    },
+                    "Risk of bleed disorder": {
+                        "Weight": -0.009774647343480295,
+                        "Original Value": "No"
+                    },
+                    "Diabetes": {
+                        "Weight": -5.031361789194165e-06,
+                        "Original Value": "No"
+                    },
+                    "Disseminated cancer": {
+                        "Weight": -0.007356039039532623,
+                        "Original Value": "No"
+                    },
+                    "Dyspnea": {
+                        "Weight": -0.056794993584052315,
+                        "Original Value": "Yes"
+                    },
+                    "Elective Surgery": {
+                        "Weight": -0.033771186374348644,
+                        "Original Value": "No"
+                    },
+                    "Emergency Case": {
+                        "Weight": -0.0073268104020665584,
+                        "Original Value": "Yes"
+                    },
+                    "Functional health status": {
+                        "Weight": -0.005700906859611732,
+                        "Original Value": "Independent"
+                    },
+                    "History of CHF": {
+                        "Weight": -1.1312018187630058e-05,
+                        "Original Value": "No"
+                    },
+                    "Principal CPT": {
+                        "Weight": -0.19964498139951595,
+                        "Original Value": "57288"
+                    },
+                    "Systemic Sepsis": {
+                        "Weight": -0.008827289234224113,
+                        "Original Value": "No"
+                    },
+                    "Pre-op acute renal failure": {
+                        "Weight": -2.9138390785708558e-06,
+                        "Original Value": "No"
+                    },
+                    "Steroid use for chronic condition": {
+                        "Weight": -0.0010838731083952096,
+                        "Original Value": "No"
+                    },
+                    "Pre-op transfusion": {
+                        "Weight": -0.006652324918318887,
+                        "Original Value": "No"
+                    },
+                    "Ventilator dependent pre-op": {
+                        "Weight": -0.0003559011962618442,
+                        "Original Value": "No"
+                    },
+                    "Open wound/wound infection pre-op": {
+                        "Weight": -3.116850890124034e-07,
+                        "Original Value": "No"
+                    },
+                    ">10% loss of body weight in last 6 months": {
+                        "Weight": -0.002696391304000159,
+                        "Original Value": "No"
+                    }
+                },
+                "Increasing Risk": {
+                    "Height": {
+                        "Weight": 0.006188274873050156,
+                        "Original Value": "67.0"
+                    },
+                    "Admission to Operation Days": {
+                        "Weight": 0.0011119265033067184,
+                        "Original Value": "0.0"
+                    },
+                    "Pre-op BUN": {
+                        "Weight": 0.0017863076945385439,
+                        "Original Value": "12.0"
+                    },
+                    "Pre-op serum creatinine": {
+                        "Weight": 0.012363979535173073,
+                        "Original Value": "0.66"
+                    },
+                    "Pre-op hematocrit": {
+                        "Weight": 2.1802303769493134,
+                        "Original Value": "27.5"
+                    },
+                    "Anesthesia technique": {
+                        "Weight": 0.060151684518070625,
+                        "Original Value": "General"
+                    },
+                    "Hispanic Ethnicity": {
+                        "Weight": 0.004042038421679106,
+                        "Original Value": "No"
+                    },
+                    "History of COPD": {
+                        "Weight": 0.004036010902476002,
+                        "Original Value": "No"
+                    },
+                    "Hypertension": {
+                        "Weight": 0.014020368670637573,
+                        "Original Value": "No"
+                    },
+                    "Race": {
+                        "Weight": 0.0015007389779188923,
+                        "Original Value": "White"
+                    },
+                    "Sex": {
+                        "Weight": 3.99033294930723e-05,
+                        "Original Value": "Female"
+                    },
+                    "Surgical specialty": {
+                        "Weight": 0.06361598033268845,
+                        "Original Value": "Gynecology"
+                    }
+                },
+                "Recommendation": [
+                    "S"
+                ]
+            }
+        }
+    ],
+    "Orthopedics": [
+        {
+            "M540935": {
+                "Patient Name": "Mary Mcluen",
+                "MRN": "M540935",
+                "OR": "1A",
+                "Procedure Date": "2022-07-25",
+                "Procedure Time": "7:00 AM EST",
+                "Primary Procedure": "MUSC MYOCUTANEOUS/FASCIOCUTANEOUS FLAP LXTR",
+                "Primary Procedure CPT Code": "15738",
+                "Anesthesia Type": "General",
+                "Probability of Bleed Risk": 0.8574273425308886,
+                "Probability of Infection Risk": 0.61783332609888107,
+                "Age": 66.0,
+                "Sex": "Female",
+                "Bleed Risk Level": "High",
+                "Infection Risk Level": "High",
+                "Decreasing Risk": {
+                    "Pre-op alkaline phosphatase": {
+                        "Weight": -0.02384094202213018,
+                        "Original Value": "62.0"
+                    },
+                    "Pre-op BUN": {
+                        "Weight": -0.017161596432186267,
+                        "Original Value": "15.0"
+                    },
+                    "Weight": {
+                        "Weight": -0.009403554755068511,
+                        "Original Value": "195.0"
+                    },
+                    "Ascites": {
+                        "Weight": -7.435108575156295e-05,
+                        "Original Value": "No"
+                    },
+                    "Risk of bleed disorder": {
+                        "Weight": -0.01308611313572784,
+                        "Original Value": "No"
+                    },
+                    "Diabetes": {
+                        "Weight": -2.114202845519407e-06,
+                        "Original Value": "No"
+                    },
+                    "Disseminated cancer": {
+                        "Weight": -0.004805313637526278,
+                        "Original Value": "No"
+                    },
+                    "Dyspnea": {
+                        "Weight": -0.0010446006558879728,
+                        "Original Value": "No"
+                    },
+                    "Elective Surgery": {
+                        "Weight": -0.029260209312842088,
+                        "Original Value": "Yes"
+                    },
+                    "Emergency Case": {
+                        "Weight": -0.007011749346931728,
+                        "Original Value": "No"
+                    },
+                    "Functional health status": {
+                        "Weight": -0.006129524309514199,
+                        "Original Value": "Partially dependent"
+                    },
+                    "History of CHF": {
+                        "Weight": -1.1838232608153045e-05,
+                        "Original Value": "No"
+                    },
+                    "History of COPD": {
+                        "Weight": -0.00314785973849261,
+                        "Original Value": "No"
+                    },
+                    "Systemic Sepsis": {
+                        "Weight": -0.0069874665353116565,
+                        "Original Value": "No"
+                    },
+                    "Pre-op acute renal failure": {
+                        "Weight": -3.58877433496042e-06,
+                        "Original Value": "No"
+                    },
+                    "Steroid use for chronic condition": {
+                        "Weight": -0.0010838731083952096,
+                        "Original Value": "0.0"
+                    },
+                    "Pre-op transfusion": {
+                        "Weight": -0.006094161169453834,
+                        "Original Value": "0.0"
+                    },
+                    "Ventilator dependent pre-op": {
+                        "Weight": -0.0002694942663316876,
+                        "Original Value": "0.0"
+                    },
+                    ">10% loss of body weight in last 6 months": {
+                        "Weight": -0.0024031724822148547,
+                        "Original Value": "0.0"
+                    }
+                },
+                "Increasing Risk": {
+                    "Age": {
+                        "Weight": 0.15293617306176552,
+                        "Original Value": "66.0"
+                    },
+                    "Height": {
+                        "Weight": 0.01893906372413133,
+                        "Original Value": "62.0"
+                    },
+                    "Admission to Operation Days": {
+                        "Weight": 0.003154568500476531,
+                        "Original Value": "0.0"
+                    },
+                    "Pre-op serum albumin": {
+                        "Weight": 0.0027287358735717244,
+                        "Original Value": "3.1"
+                    },
+                    "Pre-op total bilirubin": {
+                        "Weight": 1.4574368724395216e-05,
+                        "Original Value": "0.2"
+                    },
+                    "Pre-op serum creatinine": {
+                        "Weight": 0.003893104248024707,
+                        "Original Value": "0.81"
+                    },
+                    "Pre-op hematocrit": {
+                        "Weight": 1.3368150694169345,
+                        "Original Value": "31.5"
+                    },
+                    "INR": {
+                        "Weight": 0.2974620619012669,
+                        "Original Value": "1.0"
+                    },
+                    "Pre-op WBC": {
+                        "Weight": 0.028818528684949028,
+                        "Original Value": "4.0"
+                    },
+                    "Anesthesia technique": {
+                        "Weight": 0.043052813035735514,
+                        "Original Value": "General"
+                    },
+                    "Hispanic Ethnicity": {
+                        "Weight": 0.004500407933014189,
+                        "Original Value": "No"
+                    },
+                    "Hypertension": {
+                        "Weight": 0.008582196388593748,
+                        "Original Value": "Yes"
+                    },
+                    "Principal CPT": {
+                        "Weight": 0.6598815347693641,
+                        "Original Value": "15738"
+                    },
+                    "Race": {
+                        "Weight": 0.0012045429974207591,
+                        "Original Value": "White"
+                    },
+                    "Sex": {
+                        "Weight": 3.99033294930723e-05,
+                        "Original Value": "Female"
+                    },
+                    "Surgical specialty": {
+                        "Weight": 0.561299595982794,
+                        "Original Value": "Orthopedics"
+                    },
+                    "Open wound/wound infection pre-op": {
+                        "Weight": 8.202750883862268e-05,
+                        "Original Value": "Yes"
+                    }
+                },
+                "Recommendation": [
+                    "A",
+                    "IP"
+                ]
+            }
+        },
+        {
+            "M500255": {
+                "Patient Name": "Muoi Cardillo",
+                "MRN": "M500255",
+                "OR": "1C",
+                "Procedure Date": "2022-07-25",
+                "Procedure Time": "8:30 PM EST",
+                "Primary Procedure": "OSTEOTOMY SPINE PST/PSTLAT APPR 1 VRT SGM LMBR",
+                "Primary Procedure CPT Code": "22214",
+                "Anesthesia Type": "General",
+                "Probability of Bleed Risk": 0.9651219877693408,
+                "Probability of Infection Risk": 0.0711108148598616935,
+                "Age": 72.0,
+                "Sex": "Female",
+                "Bleed Risk Level": "High",
+                "Infection Risk Level": "Low",
+                "Decreasing Risk": {
+                    "Admission to Operation Days": {
+                        "Weight": -0.009695177344215128,
+                        "Original Value": "10.0"
+                    },
+                    "Pre-op alkaline phosphatase": {
+                        "Weight": -0.0220137530448571,
+                        "Original Value": "Not taken"
+                    },
+                    "Pre-op BUN": {
+                        "Weight": -0.01899435752707033,
+                        "Original Value": "7.0"
+                    },
+                    "Weight": {
+                        "Weight": -0.009563045929938719,
+                        "Original Value": "204.0"
+                    },
+                    "Ascites": {
+                        "Weight": -7.43675900077425e-05,
+                        "Original Value": "No"
+                    },
+                    "Risk of bleed disorder": {
+                        "Weight": -0.012607918409193437,
+                        "Original Value": "No"
+                    },
+                    "Diabetes": {
+                        "Weight": -2.114202845519407e-06,
+                        "Original Value": "No"
+                    },
+                    "Disseminated cancer": {
+                        "Weight": -0.005271355649117842,
+                        "Original Value": "No"
+                    },
+                    "Dyspnea": {
+                        "Weight": -0.002060593184230905,
+                        "Original Value": "No"
+                    },
+                    "Emergency Case": {
+                        "Weight": -0.005987622291670468,
+                        "Original Value": "Yes"
+                    },
+                    "Functional health status": {
+                        "Weight": -0.0041858949646189515,
+                        "Original Value": "Independent"
+                    },
+                    "History of CHF": {
+                        "Weight": -1.1838232608153045e-05,
+                        "Original Value": "No"
+                    },
+                    "History of COPD": {
+                        "Weight": -0.0034517058609084437,
+                        "Original Value": "No"
+                    },
+                    "Systemic Sepsis": {
+                        "Weight": -0.006218907684114317,
+                        "Original Value": "No"
+                    },
+                    "Race": {
+                        "Weight": -0.0005297455786507336,
+                        "Original Value": "White"
+                    },
+                    "Steroid use for chronic condition": {
+                        "Weight": -0.0010838731083952096,
+                        "Original Value": "No"
+                    },
+                    "Pre-op transfusion": {
+                        "Weight": -0.005001017008236141,
+                        "Original Value": "No"
+                    },
+                    "Ventilator dependent pre-op": {
+                        "Weight": -0.0002694942663316876,
+                        "Original Value": "No"
+                    },
+                    "Open wound/wound infection pre-op": {
+                        "Weight": -3.116850890124034e-07,
+                        "Original Value": "No"
+                    },
+                    ">10% loss of body weight in last 6 months": {
+                        "Weight": -0.002320987021402868,
+                        "Original Value": "No"
+                    }
+                },
+                "Increasing Risk": {
+                    "Age": {
+                        "Weight": 0.16963684157311654,
+                        "Original Value": "72.0"
+                    },
+                    "Height": {
+                        "Weight": 0.018399643815945062,
+                        "Original Value": "65.0"
+                    },
+                    "Pre-op serum albumin": {
+                        "Weight": 0.00030848271067337443,
+                        "Original Value": "Not taken"
+                    },
+                    "Pre-op total bilirubin": {
+                        "Weight": 0.00014627155721736967,
+                        "Original Value": "Not taken"
+                    },
+                    "Pre-op serum creatinine": {
+                        "Weight": 0.003182764517510225,
+                        "Original Value": "0.46"
+                    },
+                    "Pre-op hematocrit": {
+                        "Weight": 0.9709650702633278,
+                        "Original Value": "32.8"
+                    },
+                    "INR": {
+                        "Weight": 0.2783295437462726,
+                        "Original Value": "1.0"
+                    },
+                    "Pre-op WBC": {
+                        "Weight": 0.02730406726150471,
+                        "Original Value": "8.0"
+                    },
+                    "Anesthesia technique": {
+                        "Weight": 0.03718489364276878,
+                        "Original Value": "General"
+                    },
+                    "Elective Surgery": {
+                        "Weight": 0.05978668021205539,
+                        "Original Value": "No"
+                    },
+                    "Hispanic Ethnicity": {
+                        "Weight": 0.008109847353060239,
+                        "Original Value": "No"
+                    },
+                    "Hypertension": {
+                        "Weight": 0.008582196388593748,
+                        "Original Value": "Yes"
+                    },
+                    "Principal CPT": {
+                        "Weight": 2.417526203219361,
+                        "Original Value": "15738"
+                    },
+                    "Pre-op acute renal failure": {
+                        "Weight": 1.6301140793452274e-05,
+                        "Original Value": "No"
+                    },
+                    "Sex": {
+                        "Weight": 3.6377552061512154e-05,
+                        "Original Value": "Female"
+                    },
+                    "Surgical specialty": {
+                        "Weight": 0.588850186796642,
+                        "Original Value": "Orthopedics"
+                    }
+                },
+                "Recommendation": [
+                    "H",
+                    "S"
+                ]
+            }
+        },
+        {
+            "M543750": {
+                "Patient Name": "Jeanette Jensen",
+                "MRN": "M543750",
+                "OR": "1B",
+                "Procedure Date": "2022-07-25",
+                "Procedure Time": "10:00 AM EST",
+                "Primary Procedure": "MUSC MYOCUTANEOUS/FASCIOCUTANEOUS FLAP LXTR",
+                "Primary Procedure CPT Code": "15738",
+                "Anesthesia Type": "General",
+                "Probability of Bleed Risk": 0.22710685830736543,
+                "Probability of Infection Risk": 0.019566138349457834,
+                "Age": 41.0,
+                "Sex": "Female",
+                "Bleed Risk Level": "Low",
+                "Infection Risk Level": "High",
+                "Decreasing Risk": {
+                    "Age": {
+                        "Weight": -0.2803762928607292,
+                        "Original Value": "41.0"
+                    },
+                    "Pre-op serum albumin": {
+                        "Weight": -0.006567958873178755,
+                        "Original Value": "Not taken"
+                    },
+                    "Pre-op alkaline phosphatase": {
+                        "Weight": -0.025289527814510666,
+                        "Original Value": "Not taken"
+                    },
+                    "Pre-op BUN": {
+                        "Weight": -0.017446448149825277,
+                        "Original Value": "Not taken"
+                    },
+                    "Pre-op serum creatinine": {
+                        "Weight": -0.051142663429327835,
+                        "Original Value": "Not taken"
+                    },
+                    "Pre-op hematocrit": {
+                        "Weight": -0.4968858031793873,
+                        "Original Value": "Not taken"
+                    },
+                    "INR": {
+                        "Weight": -0.31602048604964084,
+                        "Original Value": "Not taken"
+                    },
+                    "Pre-op WBC": {
+                        "Weight": -0.18493572794952934,
+                        "Original Value": "Not taken"
+                    },
+                    "Weight": {
+                        "Weight": -0.006327739956106766,
+                        "Original Value": "180.0"
+                    },
+                    "Ascites": {
+                        "Weight": -8.013898693968754e-05,
+                        "Original Value": "No"
+                    },
+                    "Risk of bleed disorder": {
+                        "Weight": -0.013636035709114805,
+                        "Original Value": "No"
+                    },
+                    "Diabetes": {
+                        "Weight": -5.031361789194165e-06,
+                        "Original Value": "No"
+                    },
+                    "Disseminated cancer": {
+                        "Weight": -0.00522147760385183,
+                        "Original Value": "No"
+                    },
+                    "Dyspnea": {
+                        "Weight": -0.0010014930746322674,
+                        "Original Value": "No"
+                    },
+                    "Elective Surgery": {
+                        "Weight": -0.03781547905790627,
+                        "Original Value": "No"
+                    },
+                    "Emergency Case": {
+                        "Weight": -0.007166368750053281,
+                        "Original Value": "Yes"
+                    },
+                    "Functional health status": {
+                        "Weight": -0.006287510782452469,
+                        "Original Value": "Independent"
+                    },
+                    "History of CHF": {
+                        "Weight": -1.1312018187630058e-05,
+                        "Original Value": "No"
+                    },
+                    "History of COPD": {
+                        "Weight": -0.00314785973849261,
+                        "Original Value": "No"
+                    },
+                    "Hypertension": {
+                        "Weight": -0.010456589293428666,
+                        "Original Value": "No"
+                    },
+                    "Systemic Sepsis": {
+                        "Weight": -0.0073859398302070925,
+                        "Original Value": "No"
+                    },
+                    "Pre-op acute renal failure": {
+                        "Weight": -2.9138390785708558e-06,
+                        "Original Value": "No"
+                    },
+                    "Steroid use for chronic condition": {
+                        "Weight": -0.0010838731083952096,
+                        "Original Value": "No"
+                    },
+                    "Pre-op transfusion": {
+                        "Weight": -0.006375683430536941,
+                        "Original Value": "No"
+                    },
+                    "Ventilator dependent pre-op": {
+                        "Weight": -0.0002699289288014196,
+                        "Original Value": "No"
+                    },
+                    ">10% loss of body weight in last 6 months": {
+                        "Weight": -0.0026048885646211732,
+                        "Original Value": "No"
+                    }
+                },
+                "Increasing Risk": {
+                    "Height": {
+                        "Weight": 0.01621141146182576,
+                        "Original Value": "65.0"
+                    },
+                    "Admission to Operation Days": {
+                        "Weight": 0.0030514847919045343,
+                        "Original Value": "0.0"
+                    },
+                    "Pre-op total bilirubin": {
+                        "Weight": 1.5345551293193486e-05,
+                        "Original Value": "Not taken"
+                    },
+                    "Anesthesia technique": {
+                        "Weight": 0.042394618941248116,
+                        "Original Value": "General"
+                    },
+                    "Hispanic Ethnicity": {
+                        "Weight": 0.004500435079592328,
+                        "Original Value": "No"
+                    },
+                    "Principal CPT": {
+                        "Weight": 0.7826214123616759,
+                        "Original Value": "15738"
+                    },
+                    "Race": {
+                        "Weight": 0.0011929963138554887,
+                        "Original Value": "White"
+                    },
+                    "Sex": {
+                        "Weight": 3.99033294930723e-05,
+                        "Original Value": "Female"
+                    },
+                    "Surgical specialty": {
+                        "Weight": 0.5395100892390033,
+                        "Original Value": "Orthopedics"
+                    },
+                    "Open wound/wound infection pre-op": {
+                        "Weight": 0.0003296425076835546,
+                        "Original Value": "Yes"
+                    }
+                },
+                "Recommendation": [
+                    "IP"
+                ]
+            }
+        },
+        {
+            "M559270": {
+                "Patient Name": "Agnes Martin",
+                "MRN": "M559270",
+                "OR": "1C",
+                "Procedure Date": "2022-07-25",
+                "Procedure Time": "1:00 PM EST",
+                "Primary Procedure": "LAM FACETECTOMY & FORAMOTOMY 1 SEGMENT LUMBAR",
+                "Primary Procedure CPT Code": "63047",
+                "Anesthesia Type": "General",
+                "Probability of Bleed Risk": 0.5616395874525627,
+                "Probability of Infection Risk": 0.05,
+                "Age": 70.0,
+                "Sex": "Female",
+                "Bleed Risk Level": "Low",
+                "Infection Risk Level": "Low",
+                "Decreasing Risk": {
+                    "Pre-op serum albumin": {
+                        "Weight": -0.002601809979960741,
+                        "Original Value": "Not taken"
+                    },
+                    "Pre-op alkaline phosphatase": {
+                        "Weight": -0.02365837967180721,
+                        "Original Value": "Not taken"
+                    },
+                    "Pre-op BUN": {
+                        "Weight": -0.018064703641063627,
+                        "Original Value": "Not taken"
+                    },
+                    "Pre-op serum creatinine": {
+                        "Weight": -0.04730258748171963,
+                        "Original Value": "Not taken"
+                    },
+                    "Weight": {
+                        "Weight": -0.009753179540556836,
+                        "Original Value": "204.0"
+                    },
+                    "Ascites": {
+                        "Weight": -9.140711407596624e-05,
+                        "Original Value": "No"
+                    },
+                    "Risk of bleed disorder": {
+                        "Weight": -0.012870118361169717,
+                        "Original Value": "No"
+                    },
+                    "Diabetes": {
+                        "Weight": -2.114202845519407e-06,
+                        "Original Value": "Yes"
+                    },
+                    "Disseminated cancer": {
+                        "Weight": -0.006015627930227869,
+                        "Original Value": "No"
+                    },
+                    "Dyspnea": {
+                        "Weight": -0.0020988998207584035,
+                        "Original Value": "No"
+                    },
+                    "Elective Surgery": {
+                        "Weight": -0.029248701367333818,
+                        "Original Value": "No"
+                    },
+                    "Emergency Case": {
+                        "Weight": -0.0070670287638189165,
+                        "Original Value": "Yes"
+                    },
+                    "Functional health status": {
+                        "Weight": -0.005176081877062964,
+                        "Original Value": "Independent"
+                    },
+                    "History of CHF": {
+                        "Weight": -1.1838232608153045e-05,
+                        "Original Value": "No"
+                    },
+                    "History of COPD": {
+                        "Weight": -0.0034517058609084437,
+                        "Original Value": "No"
+                    },
+                    "Systemic Sepsis": {
+                        "Weight": -0.008308655540318573,
+                        "Original Value": "No"
+                    },
+                    "Pre-op acute renal failure": {
+                        "Weight": -3.6498433498451498e-06,
+                        "Original Value": "No"
+                    },
+                    "Steroid use for chronic condition": {
+                        "Weight": -0.0010838731083952096,
+                        "Original Value": "No"
+                    },
+                    "Pre-op transfusion": {
+                        "Weight": -0.004210372482499267,
+                        "Original Value": "No"
+                    },
+                    "Ventilator dependent pre-op": {
+                        "Weight": -0.0004008381747565033,
+                        "Original Value": "No"
+                    },
+                    "Open wound/wound infection pre-op": {
+                        "Weight": -3.116850890124034e-07,
+                        "Original Value": "No"
+                    },
+                    ">10% loss of body weight in last 6 months": {
+                        "Weight": -0.0024031724822148547,
+                        "Original Value": "No"
+                    }
+                },
+                "Increasing Risk": {
+                    "Age": {
+                        "Weight": 0.2254866142860392,
+                        "Original Value": "70.0"
+                    },
+                    "Height": {
+                        "Weight": 0.019789756647787687,
+                        "Original Value": "61.0"
+                    },
+                    "Admission to Operation Days": {
+                        "Weight": 0.0010924672914410846,
+                        "Original Value": "0.0"
+                    },
+                    "Pre-op total bilirubin": {
+                        "Weight": 1.1523077100854502e-05,
+                        "Original Value": "No taken"
+                    },
+                    "Pre-op hematocrit": {
+                        "Weight": 0.031329892021442866,
+                        "Original Value": "39.0"
+                    },
+                    "INR": {
+                        "Weight": 0.3310443636682546,
+                        "Original Value": "1.1"
+                    },
+                    "Pre-op WBC": {
+                        "Weight": 0.017006422352275785,
+                        "Original Value": "5.4"
+                    },
+                    "Anesthesia technique": {
+                        "Weight": 0.04316065606619776,
+                        "Original Value": "General"
+                    },
+                    "Hispanic Ethnicity": {
+                        "Weight": 0.004073423822878884,
+                        "Original Value": "No"
+                    },
+                    "Hypertension": {
+                        "Weight": 0.008582196388593748,
+                        "Original Value": "Yes"
+                    },
+                    "Principal CPT": {
+                        "Weight": 0.23744224885592546,
+                        "Original Value": "63047"
+                    },
+                    "Race": {
+                        "Weight": 0.00018962310401396715,
+                        "Original Value": "White"
+                    },
+                    "Sex": {
+                        "Weight": 3.99033294930723e-05,
+                        "Original Value": "Female"
+                    },
+                    "Surgical specialty": {
+                        "Weight": 0.7029962740008002,
+                        "Original Value": "Orthopedics"
+                    }
+                },
+                "Recommendation": [
+                    "S"
+                ]
+            }
+        }
+    ]
+}
