@@ -1,5 +1,5 @@
 {
-    "General_Surgery": [
+    "General Surgery": [
         {
             "M584167": {
                 "Patient Name": "Andrea Lindgren",
@@ -10,8 +10,8 @@
                 "Primary Procedure": "RPR RECRT INCAL/VNT HERNIA REDUCIBLE",
                 "Primary Procedure CPT Code": "49565",
                 "Anesthesia": "General",
-                "Probability of Bleed Risk": 0.9457044640623398,
-                "Probability of Infection Risk": 0.02308964948419801,
+                "Probability of Bleed Risk": 0.078,
+                "Probability of Infection Risk": 0.114,
                 "Age": 55.0,
                 "Sex": "Female",
                 "Bleed Risk Relative Risk": "97th",
@@ -303,16 +303,16 @@
                 "MRN": "M500952",
                 "OR": "1B",
                 "Procedure Date": "2022-07-27",
-                "Procedure Time": "8:00 AM EST",
+                "Procedure Time": "8:30 AM EST",
                 "Primary Procedure": "ENTRC RESCJ SMALL INTESTINE 1 RESCJ & ANAST",
                 "Primary Procedure CPT Code": "44120",
                 "Anesthesia": "General",
-                "Probability of Bleed Risk": 0.9417300083430881,
-                "Probability of Infection Risk": 0.005808983139916265,
+                "Probability of Bleed Risk": 0.052,
+                "Probability of Infection Risk": 0.017,
                 "Age": 57.0,
                 "Sex": "Male",
-                "Bleed Risk Relative Risk": "97th",
-                "Infection Risk Relative Risk": "10th",
+                "Bleed Risk Relative Risk": "73rd",
+                "Infection Risk Relative Risk": "19th",
                 "Bleed Risk Level": "High",
                 "Infection Risk Level": "Low",
                 "Bleed Risk Factors": {
@@ -600,16 +600,16 @@
                 "MRN": "M551852",
                 "OR": "1B",
                 "Procedure Date": "2022-07-27",
-                "Procedure Time": "9:00 AM EST",
+                "Procedure Time": "10:00 AM EST",
                 "Primary Procedure": "ENTRC RESCJ SMALL INTESTINE 1 RESCJ & ANAST",
                 "Primary Procedure CPT Code": "44120",
                 "Anesthesia": "General",
-                "Probability of Bleed Risk": 0.2927451465841142,
-                "Probability of Infection Risk": 0.005487568653770118,
+                "Probability of Bleed Risk": 0.011,
+                "Probability of Infection Risk": 0.008,
                 "Age": 25.0,
                 "Sex": "Male",
-                "Bleed Risk Relative Risk": "30th",
-                "Infection Risk Relative Risk": "10th",
+                "Bleed Risk Relative Risk": "15th",
+                "Infection Risk Relative Risk": "6th",
                 "Bleed Risk Level": "Low",
                 "Infection Risk Level": "Low",
                 "Bleed Risk Factors": {
@@ -896,16 +896,16 @@
                 "MRN": "M597433",
                 "OR": "1A",
                 "Procedure Date": "2022-07-27",
-                "Procedure Time": "10:00 AM EST",
+                "Procedure Time": "11:30 AM EST",
                 "Primary Procedure": "RPR 1ST INCAL/VNT HERNIA INCARCERATED",
                 "Primary Procedure CPT Code": "49561",
                 "Anesthesia": "General",
-                "Probability of Bleed Risk": 0.4249603604751018,
-                "Probability of Infection Risk": 0.0006562019375787557,
+                "Probability of Bleed Risk": 0.033,
+                "Probability of Infection Risk": 0.009,
                 "Age": 60.0,
                 "Sex": "Male",
-                "Bleed Risk Relative Risk": "43rd",
-                "Infection Risk Relative Risk": "1st",
+                "Bleed Risk Relative Risk": "32nd",
+                "Infection Risk Relative Risk": "12th",
                 "Bleed Risk Level": "Low",
                 "Infection Risk Level": "Low",
                 "Bleed Risk Factors": {
@@ -920,11 +920,11 @@
                         },
                         "Pre-op hematocrit": {
                             "Weight": -0.028754381028593002,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op WBC": {
                             "Weight": -0.08731980056376291,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Weight": {
                             "Weight": -0.03805459437907458,
@@ -1078,11 +1078,11 @@
                         },
                         "Pre-op hematocrit": {
                             "Weight": -0.03620115927421465,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op WBC": {
                             "Weight": -0.23497516998314413,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Systemic Sepsis": {
                             "Weight": -0.009916897613664788,
@@ -1194,16 +1194,16 @@
                 "MRN": "M597026",
                 "OR": "1A",
                 "Procedure Date": "2022-07-27",
-                "Procedure Time": "11:00 AM EST",
+                "Procedure Time": "7:00 AM EST",
                 "Primary Procedure": "SUPRACERVICAL ABDL HYSTER W/WO RMVL TUBE OVARY",
                 "Primary Procedure CPT Code": "58180",
                 "Anesthesia": "General",
-                "Probability of Bleed Risk": 0.9085499823022023,
-                "Probability of Infection Risk": 0.003629529920296159,
+                "Probability of Bleed Risk": 0.102,
+                "Probability of Infection Risk": 0.041,
                 "Age": 43.0,
                 "Sex": "Female",
-                "Bleed Risk Relative Risk": "90th",
-                "Infection Risk Relative Risk": "5th",
+                "Bleed Risk Relative Risk": "79th",
+                "Infection Risk Relative Risk": "8th",
                 "Bleed Risk Level": "High",
                 "Infection Risk Level": "Low",
                 "Bleed Risk Factors": {
@@ -1491,16 +1491,16 @@
                 "MRN": "M576166",
                 "OR": "1C",
                 "Procedure Date": "2022-07-27",
-                "Procedure Time": "12:00 PM EST",
+                "Procedure Time": "8:30 AM EST",
                 "Primary Procedure": "COLECTOMY PRTL W/END COLOSTOMY & CLSR DSTL SGMT",
                 "Primary Procedure CPT Code": "44143",
                 "Anesthesia": "General",
-                "Probability of Bleed Risk": 0.9219490685710712,
-                "Probability of Infection Risk": 0.0017314602079577465,
+                "Probability of Bleed Risk": 0.137,
+                "Probability of Infection Risk": 0.023,
                 "Age": 42.0,
                 "Sex": "Female",
-                "Bleed Risk Relative Risk": "91st",
-                "Infection Risk Relative Risk": "4th",
+                "Bleed Risk Relative Risk": "86th",
+                "Infection Risk Relative Risk": "5th",
                 "Bleed Risk Level": "High",
                 "Infection Risk Level": "Low",
                 "Bleed Risk Factors": {
@@ -1511,11 +1511,11 @@
                         },
                         "Pre-op serum albumin": {
                             "Weight": -0.0014529479585097262,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op alkaline phosphatase": {
                             "Weight": -0.03971097463440137,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op BUN": {
                             "Weight": -0.011737715760379155,
@@ -1523,7 +1523,7 @@
                         },
                         "INR": {
                             "Weight": -0.16805906726263423,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Weight": {
                             "Weight": -0.0505613648973186,
@@ -1601,7 +1601,7 @@
                         },
                         "Pre-op total bilirubin": {
                             "Weight": 0.011988707289958295,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op serum creatinine": {
                             "Weight": 0.0677570333376235,
@@ -1669,7 +1669,7 @@
                         },
                         "Pre-op alkaline phosphatase": {
                             "Weight": -0.010919050702872817,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op BUN": {
                             "Weight": -0.01843133662564426,
@@ -1719,11 +1719,11 @@
                         },
                         "Pre-op serum albumin": {
                             "Weight": 0.009628352990373299,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op total bilirubin": {
                             "Weight": 0.019135345961749782,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op hematocrit": {
                             "Weight": 0.019254109451879702,
@@ -1731,7 +1731,7 @@
                         },
                         "INR": {
                             "Weight": 5.99200062847548e-05,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Weight": {
                             "Weight": 0.029661781050220836,
@@ -1788,12 +1788,12 @@
                 "MRN": "M511167",
                 "OR": "1C",
                 "Procedure Date": "2022-07-27",
-                "Procedure Time": "1:00 PM EST",
+                "Procedure Time": "10:00 AM EST",
                 "Primary Procedure": "I&D VULVA/PERINEAL ABSCESS",
                 "Primary Procedure CPT Code": "56405",
                 "Anesthesia": "General",
-                "Probability of Bleed Risk": 0.1046711111475095,
-                "Probability of Infection Risk": 0.01968705273513041,
+                "Probability of Bleed Risk": 0.024,
+                "Probability of Infection Risk": 0.096,
                 "Age": 39.0,
                 "Sex": "Female",
                 "Bleed Risk Relative Risk": "11th",
@@ -1808,15 +1808,15 @@
                         },
                         "Pre-op serum albumin": {
                             "Weight": -0.003880738969756905,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op alkaline phosphatase": {
                             "Weight": -0.028653876347614963,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op total bilirubin": {
                             "Weight": -0.0006855193616810551,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op serum creatinine": {
                             "Weight": -0.017117184869919554,
@@ -1962,15 +1962,15 @@
                         },
                         "Pre-op serum albumin": {
                             "Weight": -0.010578481546318607,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op alkaline phosphatase": {
                             "Weight": -0.012841372800848358,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op total bilirubin": {
                             "Weight": -0.019693727111680714,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op BUN": {
                             "Weight": -0.012388257255701843,
@@ -2084,16 +2084,16 @@
                 "MRN": "M513079",
                 "OR": "1C",
                 "Procedure Date": "2022-07-27",
-                "Procedure Time": "2:00 PM EST",
+                "Procedure Time": "11:30 AM EST",
                 "Primary Procedure": "SLING OPERATION STRESS INCONTINENCE",
                 "Primary Procedure CPT Code": "57288",
                 "Anesthesia": "General",
-                "Probability of Bleed Risk": 0.18520885049728097,
-                "Probability of Infection Risk": 4.22492039630454e-05,
+                "Probability of Bleed Risk": 0.065,
+                "Probability of Infection Risk": 0.052,
                 "Age": 29.0,
                 "Sex": "Female",
-                "Bleed Risk Relative Risk": "30th",
-                "Infection Risk Relative Risk": "1st",
+                "Bleed Risk Relative Risk": "22nd",
+                "Infection Risk Relative Risk": "14th",
                 "Bleed Risk Level": "Low",
                 "Infection Risk Level": "Low",
                 "Bleed Risk Factors": {
@@ -2112,15 +2112,15 @@
                         },
                         "Pre-op serum albumin": {
                             "Weight": -0.0057297220564216265,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op alkaline phosphatase": {
                             "Weight": -0.05278435325738718,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op total bilirubin": {
                             "Weight": -0.0013605231582082497,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op serum creatinine": {
                             "Weight": -0.01950882475570532,
@@ -2128,11 +2128,11 @@
                         },
                         "INR": {
                             "Weight": -0.20484507580431638,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op WBC": {
                             "Weight": -0.19104756282528257,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Weight": {
                             "Weight": -0.17073081804117796,
@@ -2258,7 +2258,7 @@
                         },
                         "Pre-op alkaline phosphatase": {
                             "Weight": -0.014364115344167292,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op BUN": {
                             "Weight": -0.018355857647143183,
@@ -2270,7 +2270,7 @@
                         },
                         "Pre-op WBC": {
                             "Weight": -0.180585375077366,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Principal CPT4": {
                             "Weight": -0.12644985264758837,
@@ -2312,11 +2312,11 @@
                         },
                         "Pre-op serum albumin": {
                             "Weight": 0.00804572570756663,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op total bilirubin": {
                             "Weight": 0.04024639055129095,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op hematocrit": {
                             "Weight": 0.04756104977589658,
@@ -2324,7 +2324,7 @@
                         },
                         "INR": {
                             "Weight": 8.042706347349909e-05,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Weight": {
                             "Weight": 0.005226459239325528,
@@ -2382,16 +2382,16 @@
                 "MRN": "M540935",
                 "OR": "1A",
                 "Procedure Date": "2022-07-27",
-                "Procedure Time": "3:00 PM EST",
+                "Procedure Time": "7:00 AM EST",
                 "Primary Procedure": "MUSC MYOCUTANEOUS/FASCIOCUTANEOUS FLAP LXTR",
                 "Primary Procedure CPT Code": "15738",
                 "Anesthesia": "General",
-                "Probability of Bleed Risk": 0.9088041139676631,
-                "Probability of Infection Risk": 0.017025092126070566,
+                "Probability of Bleed Risk": 0.057,
+                "Probability of Infection Risk": 0.066,
                 "Age": 66.0,
                 "Sex": "Female",
-                "Bleed Risk Relative Risk": "90th",
-                "Infection Risk Relative Risk": "70th",
+                "Bleed Risk Relative Risk": "61st",
+                "Infection Risk Relative Risk": "52nd",
                 "Bleed Risk Level": "High",
                 "Infection Risk Level": "High",
                 "Bleed Risk Factors": {
@@ -2679,12 +2679,12 @@
                 "MRN": "M500255",
                 "OR": "1C",
                 "Procedure Date": "2022-07-27",
-                "Procedure Time": "4:00 PM EST",
+                "Procedure Time": "8:30 AM EST",
                 "Primary Procedure": "OSTEOTOMY SPINE PST/PSTLAT APPR 1 VRT SGM LMBR",
                 "Primary Procedure CPT Code": "22214",
                 "Anesthesia": "General",
-                "Probability of Bleed Risk": 0.9742866171777965,
-                "Probability of Infection Risk": 0.0014031789449834692,
+                "Probability of Bleed Risk": 0.08,
+                "Probability of Infection Risk": 0.007,
                 "Age": 72.0,
                 "Sex": "Female",
                 "Bleed Risk Relative Risk": "99th",
@@ -2699,11 +2699,11 @@
                         },
                         "Pre-op serum albumin": {
                             "Weight": -0.002509255042047561,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op alkaline phosphatase": {
                             "Weight": -0.03331089519056918,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op BUN": {
                             "Weight": -0.034723174639447095,
@@ -2793,7 +2793,7 @@
                         },
                         "Pre-op total bilirubin": {
                             "Weight": 0.0016677842922524985,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op hematocrit": {
                             "Weight": 0.9519720351867672,
@@ -2857,7 +2857,7 @@
                         },
                         "Pre-op alkaline phosphatase": {
                             "Weight": -0.01323524817294401,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Emergency Case": {
                             "Weight": -0.016787388459465202,
@@ -2883,11 +2883,11 @@
                         },
                         "Pre-op serum albumin": {
                             "Weight": 0.014196198152422788,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op total bilirubin": {
                             "Weight": 0.05088538371562938,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op BUN": {
                             "Weight": 0.027973895146110237,
@@ -2976,16 +2976,16 @@
                 "MRN": "M543750",
                 "OR": "1B",
                 "Procedure Date": "2022-07-27",
-                "Procedure Time": "5:00 PM EST",
+                "Procedure Time": "10:00 AM EST",
                 "Primary Procedure": "MUSC MYOCUTANEOUS/FASCIOCUTANEOUS FLAP LXTR",
                 "Primary Procedure CPT Code": "15738",
                 "Anesthesia": "General",
-                "Probability of Bleed Risk": 0.4239260905753188,
-                "Probability of Infection Risk": 0.017722210601622497,
+                "Probability of Bleed Risk": 0.044,
+                "Probability of Infection Risk": 0.072,
                 "Age": 41.0,
                 "Sex": "Female",
-                "Bleed Risk Relative Risk": "43th",
-                "Infection Risk Relative Risk": "70th",
+                "Bleed Risk Relative Risk": "43rd",
+                "Infection Risk Relative Risk": "75th",
                 "Bleed Risk Level": "Low",
                 "Infection Risk Level": "High",
                 "Bleed Risk Factors": {
@@ -2996,31 +2996,31 @@
                         },
                         "Pre-op serum albumin": {
                             "Weight": -0.006445881183147133,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op alkaline phosphatase": {
                             "Weight": -0.04000122456653403,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op BUN": {
                             "Weight": -0.03312012001870206,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op serum creatinine": {
                             "Weight": -0.075141536125319,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op hematocrit": {
                             "Weight": -0.3064973181636569,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "INR": {
                             "Weight": -0.23427981175276036,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op WBC": {
                             "Weight": -0.17086904297564443,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Weight": {
                             "Weight": -0.01198176577739237,
@@ -3106,7 +3106,7 @@
                         },
                         "Pre-op total bilirubin": {
                             "Weight": 0.00050937165460073,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Anesthesia technique": {
                             "Weight": 0.04886673514283096,
@@ -3154,11 +3154,11 @@
                         },
                         "Pre-op alkaline phosphatase": {
                             "Weight": -0.012750090077097336,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op WBC": {
                             "Weight": -0.20866125414900347,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Weight": {
                             "Weight": -0.011506250444933567,
@@ -3188,27 +3188,27 @@
                         },
                         "Pre-op serum albumin": {
                             "Weight": 0.013947682070722032,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op total bilirubin": {
                             "Weight": 0.050397791210979766,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op BUN": {
                             "Weight": 0.03888144907829282,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op serum creatinine": {
                             "Weight": 0.00815298924112665,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op hematocrit": {
                             "Weight": 0.044108550005774766,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "INR": {
                             "Weight": 0.0005500323645228702,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Anesthesia technique": {
                             "Weight": 6.508546768695052e-05,
@@ -3272,39 +3272,39 @@
                 "MRN": "M559270",
                 "OR": "1C",
                 "Procedure Date": "2022-07-27",
-                "Procedure Time": "6:00 PM EST",
+                "Procedure Time": "11:30 AM EST",
                 "Primary Procedure": "LAM FACETECTOMY & FORAMOTOMY 1 SEGMENT LUMBAR",
                 "Primary Procedure CPT Code": "63047",
                 "Anesthesia": "General",
-                "Probability of Bleed Risk": 0.5482165954394916,
-                "Probability of Infection Risk": 2.1559674076843044e-05,
+                "Probability of Bleed Risk": 0.032,
+                "Probability of Infection Risk": 0.012,
                 "Age": 70.0,
                 "Sex": "Female",
-                "Bleed Risk Relative Risk": "51st",
-                "Infection Risk Relative Risk": "1st",
+                "Bleed Risk Relative Risk": "36th",
+                "Infection Risk Relative Risk": "7th",
                 "Bleed Risk Level": "Low",
                 "Infection Risk Level": "Low",
                 "Bleed Risk Factors": {
                     "Decreasing Risk": {
                         "Pre-op serum albumin": {
                             "Weight": -0.006959377349308426,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op alkaline phosphatase": {
                             "Weight": -0.03770241264834856,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op total bilirubin": {
                             "Weight": -0.0005054821447129063,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op BUN": {
                             "Weight": -0.03360955996658193,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op serum creatinine": {
                             "Weight": -0.06539856434783707,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Weight": {
                             "Weight": -0.04673198184523897,
@@ -3454,7 +3454,7 @@
                         },
                         "Pre-op alkaline phosphatase": {
                             "Weight": -0.01302447435128756,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op hematocrit": {
                             "Weight": -0.07678390769506599,
@@ -3500,19 +3500,19 @@
                     "Increasing Risk": {
                         "Pre-op serum albumin": {
                             "Weight": 0.013610282848336592,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op total bilirubin": {
                             "Weight": 0.01764684557660878,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op BUN": {
                             "Weight": 0.027902827927088324,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "Pre-op serum creatinine": {
                             "Weight": 0.025260392954651663,
-                            "Original Value": "-99.0"
+                            "Original Value": "Not Available"
                         },
                         "INR": {
                             "Weight": 5.8022453752717326e-05,
